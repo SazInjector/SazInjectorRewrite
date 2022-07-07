@@ -3,5 +3,5 @@
     "state":"UP",
     "message":"Under recode",
     "changeLog":"[+] Rewrited the whole project.",
-    "beta_allowed":"true"
+    "beta_allowed":"false"
 }
