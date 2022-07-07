@@ -1,0 +1,14 @@
+{
+    "id":"id",
+    "details":"details",
+    "state":"state",
+    "large_image_key":"large_image_key",
+    "large_image_text":"large_image_text",
+    "small_image_key":"small_image_key",
+    "small_image_text":"small_image_text",
+    "button_1_text":"button_1_text",
+    "button_1_link":"button_1_link",
+    "button_2_text":"button_2_text",
+    "button_2_link":"button_2_link",
+    "timestamps":"false"
+}
