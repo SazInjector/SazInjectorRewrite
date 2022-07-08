@@ -1,7 +1,7 @@
 {
-    "version":"3.7.0.0",
-    "state":"UP",
-    "message":"Under recode",
-    "changeLog":"[+] Rewrited the whole project.",
-    "beta_allowed":"false"
+    "version": "4.0.0.0",
+    "state": "UP",
+    "message": "Under recode",
+    "changeLog": "XX/XX/XXXX",
+    "beta_allowed": "false"
 }

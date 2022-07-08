@@ -1,14 +1,14 @@
 {
-    "id":"886221116127977492",
-    "details":"",
-    "state":"Sunset Center Software",
-    "large_image_key":"sazlogo",
-    "large_image_text":"Using SazInjector",
-    "small_image_key":"",
-    "small_image_text":"",
-    "button_1_text":"Download",
-    "button_1_link":"",
-    "button_2_text":"Discord server",
-    "button_2_link":"",
-    "timestamps":"false"
+    "id": "886221116127977492",
+    "details": "",
+    "state": "Sunset Center Software",
+    "large_image_key": "sazlogo",
+    "large_image_text": "Using SazInjector",
+    "small_image_key": "",
+    "small_image_text": "",
+    "button_1_text": "Download",
+    "button_1_link": "",
+    "button_2_text": "Discord server",
+    "button_2_link": "",
+    "timestamps": "false"
 }
