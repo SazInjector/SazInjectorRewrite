@@ -1,7 +1,7 @@
 {
-    "version": "4.0.0.0",
+    "version": "3.6.9.3",
     "state": "UP",
     "message": "SazInjector is currently under maintenance, please wait until it is updated.\nCheck the discord server for more information.",
-    "beta_allowed": "false",
+    "beta_allowed": "true",
     "discord_username": "MousePlayer2 (Saz)#2497"
 }
