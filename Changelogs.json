@@ -1,0 +1,18 @@
+{
+    "changelogs": [
+        {
+            "date": "15/09/2021",
+            "version": "3.6.9.0",
+            "added": [
+                "[+] Updated loadlibrary injection",
+                "[+] Recoded some parts of the injector, may be faster",
+                "[+] Remade some code (source)",
+                "[+] Some edits on the discord RPC (nor showing the discord invite anymore)",
+                "[+] Fixed clear recycle bin bug",
+                "[+] Fixed the process still running bug",
+                "[+] Fixed \"Failed to check for update\" thing"
+            ],
+            "removed": []
+        }
+    ]
+}
