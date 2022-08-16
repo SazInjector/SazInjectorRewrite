@@ -1,6 +1,28 @@
 {
     "changelogs": [
         {
+            "date": "15/08/2022",
+            "version": "4.0.0.0",
+            "added": [
+                "[+] Recoded the whole project",
+                "[+] New UI on every windows",
+                "[+] Dark / Light mode in settings",
+                "[+] New window to display changelogs",
+                "[+] Faster",
+                "[+] Vac-Bypass-Loader downloading on Loader window",
+                "[+] Reworked LoadLibrary injection",
+                "[+] Injected files stored in temp folder",
+                "[+] Icons on buttons",
+                "[+] Download and discord server buttons on discord RPC",
+                "[+] Auto clear temp files at start (settings)",
+                "[+] Bypass functions (settings)"
+            ],
+            "removed": [
+                "[-] SazDownloader button on the main window",
+                "[-] Auto renaming after closing"
+            ]
+        },
+        {
             "date": "15/09/2021",
             "version": "3.6.9.0",
             "added": [
@@ -11,6 +33,19 @@
                 "[+] Fixed clear recycle bin bug",
                 "[+] Fixed the process still running bug",
                 "[+] Fixed \"Failed to check for update\" thing"
+            ],
+            "removed": []
+        },
+        {
+            "date": "14/04/2021",
+            "version": "X.X.X.X",
+            "added": [
+                "[+] New auto-renaming system",
+                "[+] Duplication bug fixed",
+                "[+] Random forms string is enabled by default",
+                "[+] Changed Config.txt to Config.ini",
+                "[+] New partner added (CheaterMad.com)",
+                "[+] New button changelogs where you can find all the changelogs since the begining of the project"
             ],
             "removed": []
         }
